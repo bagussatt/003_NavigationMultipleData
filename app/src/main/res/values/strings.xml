@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">XX</string>
+    <string name="nama">Nama</string>
+    <string name="noHp">Nomer Hp</string>
+    <string name="alamat">Alamat</string>
+    <string name="next">Submit</string>
+    <string name="back">Kembali</string>
 </resources>
